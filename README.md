@@ -14,7 +14,7 @@ Contaminación en México-Agua.org.mx. (2021, April 11). Agua.org.mx. https://ag
 
 Los estados con mayor proporción de población rural se encuentran en la franja sur del país, en los estados de Oaxaca, Chiapas y Tabasco; Para el tratamiento de aguas residuales municipales, existen diversas tecnologías que van desde las altamente mecanizadas y costosas, hasta las tecnologías relativamente simples y de bajo costo. El objetivo de este trabajo, es investigar el estado actual del tratamiento de las aguas residuales municipales en las comunidades rurales en México, así como discutir cuáles son las barreras y los retos que se deben de superar, para que de esta manera se puedan incrementar la cobertura de plantas de tratamiento. En la mayoría de los estados, se está dejando de atender las pequeñas comunidades rurales de menos de 2 500 habitantes, en especial aquellas 47 233 localidades con 100-2 499 habitantes, en donde es factible instalar plantas de tratamiento.
 
-De acuerdo con los datos del Instituto Nacional de Estadística y Geografía (INEGI, 2016), del total de la población del VM, 96.93 % de las viviendas cuentan con disponibilidad de agua entubada (57.1 % dentro de la vivienda y 42.9 % fuera, pero dentro el terreno), 3 % la obtienen por acarreo y 0.07 % no lo especifican.
+> De acuerdo con los datos del Instituto Nacional de Estadística y Geografía (INEGI, 2016), del total de la población del VM, 96.93 % de las viviendas cuentan con disponibilidad de agua entubada (57.1 % dentro de la vivienda y 42.9 % fuera, pero dentro el terreno), 3 % la obtienen por acarreo y 0.07 % no lo especifican.
 
 Al disgregar la información de los hogares que no cuentan con el acceso dentro de la vivienda se observa que están abastecidas principalmente de llaves comunitarias o de otras viviendas. Hablando en términos porcentuales, una gran parte de la región cuenta con una cobertura del servicio, resalta la existencia de municipios donde el abastecimiento es inferior a 80 % (INEGI, 2016). Si a eso asociamos que la Organización de las Naciones Unidas [ONU] (2017) ha advertido que “…esas cifras, por impresionantes que sean, no reflejan más que la existencia de algún tipo de cobertura infraestructural, no el alcance real del acceso al agua y el saneamiento en los hogares de las personas, que es considerablemente inferior”, se puede concluir que la cobertura no necesariamente ha garantizado su disponibilidad. (Figueroa L. , 2019)
 
@@ -36,7 +36,7 @@ Se empezará hablando de un estudio hecho en mayo de 2019, sobre la “Importanc
 
 En la investigación del Dr. Iván Renato Zúñiga Carrasco se llevaron a cabo distintos tipos de experimentos de tamizaje, en donde se midió el PH y la cloración del agua en el municipio de Lerma, Edo. de México. Al igual que se hicieron pruebas de Pur Test® Home Water Analysis y reactivos de Testlab® para así poder conocer los aspectos físico-químicos del agua de la muestra. Se tomaron cuatro muestras de agua en distintas situaciones (agua de un pozo en mal estado, agua de un hospital, agua entubada y agua de una planta de tratamientos) para así poder cultivarlas y enviarlas a un laboratorio.
 
-[](https://www.medigraphic.com/pdfs/micro/ei-2019/ei193c.pdf)
+<https://www.medigraphic.com/pdfs/micro/ei-2019/ei193c.pdf>
 
 ---
 
