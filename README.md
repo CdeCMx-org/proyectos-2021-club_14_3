@@ -51,6 +51,8 @@ En la investigación del Dr. Iván Renato Zúñiga Carrasco se llevaron a cabo d
 5. Asimismo, se nos indican los datos del reporte bacteriológico de pozo, donde muchas de las bacterias contenidas fueron susceptibles o se encontraron ausentes.
 6. Finalmente, el informe bacteriológico de agua tratada nos describe que 20 bacterias tuvieron el resultado de ser, ya sea susceptibles o estar ausentes, tal y como se pudo describir anteriormente.
 
+<blockquote class="twitter-tweet"><p lang="es" dir="ltr">¿Sabías que 4 billones de personas carecen de acceso a servicios básicos de saneamiento, como retretes o letrinas? <a href="https://t.co/u6dHixkAAE">pic.twitter.com/u6dHixkAAE</a></p>&mdash; ximena Patiño (@ximenaP42719937) <a href="https://twitter.com/ximenaP42719937/status/1428133071308660739?ref_src=twsrc%5Etfw">August 18, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ---
 
 # Conclusiones
