@@ -28,7 +28,7 @@ Teniendo en cuenta el problema inicial, decidimos buscar una solución a esto qu
 
 Este método utiliza varios tipos de cloro o sustancias que contienen cloro para la oxidación y desinfección del agua potable. La cloración es el proceso de añadir cloro al agua potable para desinfectar y matar los microorganismos patógenos, el método da como resultado la desinfección, pero a causa de la oxidación de especies disueltas se da la formación de productos insolubles, que después pueden ser filtrados para su absoluta eliminación.
 
-![agua .jpg](%C2%BFPor%20que%CC%81%20el%20agua%20es%20la%20solucio%CC%81n%20a%20nuestros%20probl%206ade1f8b04b745ffa36c762cb459ff1d/agua_.jpg)
+![agua .jpg](https://fantastic-monitor-b7a.notion.site/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fc06f25ba-9dd7-43d0-94a7-4c8541f46a12%2Fagua_.jpg?table=block&id=c5525bc1-b8e4-41ce-a959-cf87fd79031e&spaceId=5038b26d-2be1-4f51-b99d-40c7a426f93b&width=960&userId=&cache=v2)
 
 Simultáneamente nuestro primer enfoque es la prevención de enfermedades parasitarias y gastrointestinales, por lo que la cloración del agua ayuda a la desinfección completa de los microorganismos dañinos. Las bacterias coliformes corresponden al 10% de los microorganismos intestinales humanos y animales. Éstas bacterias coliformes podrían fácilmente ser eliminadas.
 
