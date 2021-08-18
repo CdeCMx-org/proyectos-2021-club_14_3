@@ -8,7 +8,7 @@ Es necesario aclarar que el agua limpia y la higiene tiene una gran correlación
 
 Recientemente se han hecho esfuerzos, para poder incrementar la cobertura de plantas de tratamiento de aguas residuales municipales en México; sin embargo, estos trabajos se han enfocado principalmente en las comunidades urbanas.
 
-![aguas residuales.png](%C2%BFPor%20que%CC%81%20el%20agua%20es%20la%20solucio%CC%81n%20a%20nuestros%20probl%206ade1f8b04b745ffa36c762cb459ff1d/aguas_residuales.png)
+<img src="https://fantastic-monitor-b7a.notion.site/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fdba77953-3d82-44f0-a32d-8271f2ec3e99%2Faguas_residuales.png?table=block&id=6ade1f8b-04b7-45ff-a36c-762cb459ff1d&spaceId=5038b26d-2be1-4f51-b99d-40c7a426f93b&width=1200&userId=&cache=v2" alt="">
 
 Contaminación en México-Agua.org.mx. (2021, April 11). Agua.org.mx. https://agua.org.mx/agua-contaminacion-en-mexico/
 
