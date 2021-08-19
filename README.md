@@ -84,3 +84,4 @@ Si se soluciona la gestión de la limpieza del agua muchos problemas sociales po
 
 > Lara Figueroa, H. N., & García Salazar, E. M. (2019). Prevalencia de enfermedades asociadas al uso de agua contaminada en el Valle del Mezquital. Entreciencias: Diálogos En La Sociedad Del Conocimiento, 7(21). [https://doi.org/10.22201/enesl.20078064e.2019.21.69636](https://doi.org/10.22201/enesl.20078064e.2019.21.69636)
 
+<img src="https://raw.githubusercontent.com/CdeCMx-org/proyectos-2021-club_14_3/main/Logo_CdeCMx.png" alt="">
