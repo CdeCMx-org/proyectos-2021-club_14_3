@@ -1,7 +1,7 @@
 # ¿Por qué el agua es la solución a nuestros problemas sociales?
-Ximena Patiño Goji 
-Renata Palma Solis
-Lucero García Hernández
+Ximena Patiño Goji, 
+Renata Palma Solis,
+Lucero García Hernández,
 Mónica Flores 
 # **Introducción**
 
