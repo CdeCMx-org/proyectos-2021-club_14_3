@@ -2,7 +2,7 @@
 Ximena Patiño Goji, 
 Renata Palma Solis,
 Lucero García Hernández,
-Mónica Flores 
+Mónica Flores Rodríguez
 # **Introducción**
 
 ---
