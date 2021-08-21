@@ -71,7 +71,7 @@ Si se soluciona la gestión de la limpieza del agua muchos problemas sociales po
 
 ---
 
-## Nuestro video
+## Nuestro vídeo
 <iframe width="560" height="315" src="https://www.youtube.com/embed/iwxL42vRweE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 # Referencias
