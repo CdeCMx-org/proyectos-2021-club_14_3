@@ -71,6 +71,9 @@ Si se soluciona la gestión de la limpieza del agua muchos problemas sociales po
 
 ---
 
+## Nuestro video
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iwxL42vRweE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 # Referencias
 
 > Zurita, Florentina., Castellanos., Osvaldo A., Rodriguez, Araceli. (2011). El tratamiento de las aguas residuales municipales en las comunidades rurales de México. Revista mexicana de ciencias agrícolas, 2. Pp. 139-150. Recuperado de: [http://www.scielo.org.mx/scielo.php?pid=S2007-09342011000700011&script=sci_abstract&tlng=pt](http://www.scielo.org.mx/scielo.php?pid=S2007-09342011000700011&script=sci_abstract&tlng=pt)
